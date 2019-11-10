@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+<PropertyGroup Condition^" '$(Configuration) |$(Platform)' == 'Debug IAnyCPU' "> 
+  <PlatformTarget>AnyCPU</PlatformTarget>
+  <DebugSymbols>true</DebugSymbols>
+  <DebugType>full</DebugType>
+  <Optimize>false</Optimize>
+  <OutputPath>bm\Debug\</OutputPath>
+  <DefineConstants>DEBUG;TRACE</DefineConstants> 
+  <ErrorReport>prompt</ErrorReport>
+  <WarningLevel>4</WarningLevel>
+  <LangVersion>7.l</LangVersion>
+</PropertyGroup>
+<PropertyGroup Condition=" '$ (Configuration) |$( Platform)' == ' Release IAnyCPU' "> 
+  <PlatformTarget>AnyCPU</PlatformTarget>
+  <DebugType>pdbonly</DebugType>
+  <Optimize>true</Optimize>
+  <OutputPath>bin\Release\</OutputPath>
+  <DefineConstants>TRACE</DefineConstants> 
+  <ErrorReport>prompt</ErrorReport>
+  <WarningLevel>4</WarningLevel>
+  <LangVersion>7.l</LangVersion>
+</PropertyGroup>
+
+</Project>

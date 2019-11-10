@@ -1,0 +1,6 @@
+F:\Agit\C#\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe.config
+F:\Agit\C#\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe
+F:\Agit\C#\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.pdb
+F:\Agit\C#\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.csprojAssemblyReference.cache
+F:\Agit\C#\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.exe
+F:\Agit\C#\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.pdb

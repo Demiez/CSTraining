@@ -1,0 +1,6 @@
+F:\Agit\C#\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe.config
+F:\Agit\C#\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
+F:\Agit\C#\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
+F:\Agit\C#\BasicConsoleIO\obj\Debug\BasicConsoleIO.csprojAssemblyReference.cache
+F:\Agit\C#\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
+F:\Agit\C#\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb

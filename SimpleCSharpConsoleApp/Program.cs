@@ -1,0 +1,22 @@
+﻿using System;
+
+namespace SimpleCSharpConsoleApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Настройка консольного пользовательского интерфейса
+            Console.Title = "My working App";
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.BackgroundColor = ConsoleColor.Blue;
+            Console.WriteLine("*******************************");
+            Console.WriteLine("***Welcome to My Rocking App***");
+            Console.WriteLine("*******************************");
+            Console.BackgroundColor = ConsoleColor.Black;
+
+            //Ожидание нажатия Enter
+            Console.ReadLine();
+        }
+    }
+}

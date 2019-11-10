@@ -1,0 +1,11 @@
+F:\Agit\C#\SimpleCSharpConsoleApp\bin\Debug\netcoreapp3.0\SimpleCSharpConsoleApp.exe
+F:\Agit\C#\SimpleCSharpConsoleApp\bin\Debug\netcoreapp3.0\SimpleCSharpConsoleApp.deps.json
+F:\Agit\C#\SimpleCSharpConsoleApp\bin\Debug\netcoreapp3.0\SimpleCSharpConsoleApp.runtimeconfig.json
+F:\Agit\C#\SimpleCSharpConsoleApp\bin\Debug\netcoreapp3.0\SimpleCSharpConsoleApp.runtimeconfig.dev.json
+F:\Agit\C#\SimpleCSharpConsoleApp\bin\Debug\netcoreapp3.0\SimpleCSharpConsoleApp.dll
+F:\Agit\C#\SimpleCSharpConsoleApp\bin\Debug\netcoreapp3.0\SimpleCSharpConsoleApp.pdb
+F:\Agit\C#\SimpleCSharpConsoleApp\obj\Debug\netcoreapp3.0\SimpleCSharpConsoleApp.csprojAssemblyReference.cache
+F:\Agit\C#\SimpleCSharpConsoleApp\obj\Debug\netcoreapp3.0\SimpleCSharpConsoleApp.AssemblyInfoInputs.cache
+F:\Agit\C#\SimpleCSharpConsoleApp\obj\Debug\netcoreapp3.0\SimpleCSharpConsoleApp.AssemblyInfo.cs
+F:\Agit\C#\SimpleCSharpConsoleApp\obj\Debug\netcoreapp3.0\SimpleCSharpConsoleApp.dll
+F:\Agit\C#\SimpleCSharpConsoleApp\obj\Debug\netcoreapp3.0\SimpleCSharpConsoleApp.pdb
